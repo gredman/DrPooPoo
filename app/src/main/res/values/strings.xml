@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Dr Poo Poo</string>
+    <string name="dana_scully">Your %s is %s because %s.</string>
 </resources>

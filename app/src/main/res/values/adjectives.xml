@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="adjectives">
+        <item>black</item>
+        <item>bloody</item>
+        <item>diarrhea</item>
+        <item>foamy</item>
+        <item>green</item>
+        <item>little pellets like bunny rabbit</item>
+        <item>orange</item>
+        <item>stinky</item>
+    </string-array>
+</resources>

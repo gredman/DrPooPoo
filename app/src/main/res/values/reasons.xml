@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="reasons">
+        <item>beetroot</item>
+        <item>bread eat</item>
+        <item>colorectal cancer</item>
+        <item>licorice</item>
+        <item>that famous beverage we all love known only as "beer"</item>
+        <item>the legendary "brown note"</item>
+        <item>ur a duck 🦆</item>
+    </string-array>
+</resources>

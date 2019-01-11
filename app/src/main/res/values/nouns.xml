@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nouns">
+        <item>crud</item>
+        <item>doo doo</item>
+        <item>dookie</item>
+        <item>"number two"</item>
+        <item>poop</item>
+        <item>poopy</item>
+        <item>poup</item>
+        <item>terd</item>
+        <item>tird</item>
+        <item>turd</item>
+    </string-array>
+</resources>
